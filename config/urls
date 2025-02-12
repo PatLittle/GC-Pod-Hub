@@ -2,17 +2,3 @@
 "query:Podcasts:tags # \"podcast\" and unread = \"yes\""
 
 https://feeds.transistor.fm/statcan-eh-sayers "~Podcast - StatCan" ! podcast
-https://access.acast.com/rss/c939f8d1-c4bc-478e-8bb9-e5343f9a7ab5/default "~Podcast - HistoryHit" ! podcast
-https://changelog.com/gotime/feed "~Podcast - Go Time" ! podcast
-https://changelog.com/podcast/feed "~Podcast - Changelog" ! podcast
-https://feeds.buzzsprout.com/2105116.rss "~Podcast - Cmd+Shift+Left" ! podcast
-https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ "~Podcast - Joe Rogan" ! podcast
-https://www.youtube.com/feeds/videos.xml?channel_id=UCSHZKyawb77ixDdsGog4iWA "~Podcast - Lex Fridman" ! podcast
-https://www.youtube.com/feeds/videos.xml?channel_id=UCl9StMQ79LtEvlrskzjoYbQ "~Podcast - Closer to Truth" ! podcast
-https://softwareengineeringdaily.com/category/podcast/feed "~Podcast - Software Engineering Daily" ! podcast
-https://feeds.simplecast.com/L9810DOa "~Podcast - Signals and Threads" ! podcast
-https://feeds.transistor.fm/on-the-metal-0294649e-ec23-4eab-975a-9eb13fd94e06 "~Podcast - On the Metal" ! podcast
-https://link.chtbl.com/corecursive?id=corecursive&platform=rss "~Podcast - CoRecursive" ! podcast
-https://anchor.fm/s/174cb1b8/podcast/rss "~Podcast - MLOps" ! podcast
-https://www.youtube.com/feeds/videos.xml?channel_id=UCfuj1MM5p37CRzWYPv_PsWA "~Podcast - CodeTalks" ! podcast
-https://www.youtube.com/feeds/videos.xml?channel_id=UCmYAQDZIQGm_kPvemBc_qwg "~Podcast - DevConfs" ! podcast
