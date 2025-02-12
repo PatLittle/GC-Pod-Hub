@@ -1,4 +1,20 @@
 
 "query:Podcasts:tags # \"podcast\" and unread = \"yes\""
 
-https://feeds.transistor.fm/statcan-eh-sayers "~Podcast - StatCan" ! podcast
+https://feeds.transistor.fm/statcan-eh-sayers
+https://feeds.transistor.fm/the-first-sixteen
+https://www.canada.ca/content/dam/cra-arc/migration/cra-arc/esrvc-srvce/rss/pyrll-eng.xml
+https://www.canada.ca/content/dam/cra-arc/migration/cra-arc/esrvc-srvce/rss/txlgy-strmng-eng.xml
+https://anchor.fm/s/11475f98/podcast/rss
+https://feeds.megaphone.fm/recollections
+https://feeds.simplecast.com/9Uo30mEr
+https://feeds.simplecast.com/9Uo30mEr
+https://feeds.libsyn.com/23176/rss
+https://anchor.fm/s/3bcc4b70/podcast/rss
+https://feeds.simplecast.com/Zd3oeWec
+https://feeds.simplecast.com/6dg_HLOh
+https://feeds.soundcloud.com/users/soundcloud:users:269783479/sounds.rss
+https://feeds.simplecast.com/6Azef75R
+https://feeds.transistor.fm/discover-library-and-archives-canada
+https://www.rcmp-grc.gc.ca/podcasts-balados/f/podcast.xml
+https://feeds.blubrry.com/feeds/facesoffreedom.xml
